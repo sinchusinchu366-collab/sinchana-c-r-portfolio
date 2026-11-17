@@ -77,7 +77,7 @@ export default function About() {
                     {/* Portrait — fills remaining height */}
                     <img
                       src={stackImage}
-                      alt="Sinchana C R — illustrated portrait"
+                      alt="Sinchana C R — Java full stack Devloper, TAP Academy student"
                       className="w-full flex-1 rounded-xl object-cover object-top min-h-0"
                     />
                   </div>
