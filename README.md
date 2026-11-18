@@ -2,7 +2,7 @@
 
 A modern, responsive single-page developer portfolio showcasing full-stack projects, technical skillset, and academic background.
 
-**Live Site:** https://YOUR-SITE-URL/
+**Live Site:** https://my-portfolio-q8thudpeo-sinchu6.vercel.app/
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
@@ -24,8 +24,8 @@ Built during the placement training program at [TAP Academy](https://thetapacade
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/sinchusinchu366-collab/my--portfolio.git
-cd my--portfolio
+git clone https://github.com/sinchusinchu366-collab/sinchana-c-r-portfolio.git
+cd sinchana-c-r-portfolio
 npm install
 ```
 
